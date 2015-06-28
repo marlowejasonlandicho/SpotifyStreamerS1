@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spotify Streamer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="artist_no_result">No Artist found on your criteria. Please refine your search.</string>
+    <string name="track_no_result">No Tracks and Album found for the artist. Please try other artists.</string>
+    <string name="artist_search_hint">Artist name goes here…</string>
+    <string name="text_top_tracks">Top 10 Tracks</string>
+    <string name="spotify_exception_message">Oops. There seem to be a problem connecting to Spotify. Please try again later or check your connection.</string>
+    <string name="input_artist_name_message">Enter artist name here…</string>
+    <string name="hint_track_name">Track name goes here...</string>
+    <string name="hint_album_name">Album name goes here...</string>
+    <string name="hint_no_image">No Image available</string>
+</resources>
